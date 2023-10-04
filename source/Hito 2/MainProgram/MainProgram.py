@@ -1,6 +1,6 @@
 
 
-"""
+"""noo
                           Instituto Universitario de Microgravedad Ignacio Da Riva (IDR)
                           -------------------------------------------------------------                          
                                       Subject: Ampliacion de Matematicas I               
