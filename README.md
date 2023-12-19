@@ -9,7 +9,7 @@ In the initial section, you will find the "EDOs" directory, housing the followin
 
 - **Cauchy_Problem:** Implementation of a numerical solver designed for solving ordinary differential equations (ODEs) utilizing the Cauchy problem approach.
 
-- **Temporal_Schemes:** Diverse numerical methods for solving ordinary differential equations (ODEs), each offering distinct approaches based on factors such as accuracy, stability, and efficiency.
+- **`Temporal_Schemes`:** Diverse numerical methods for solving ordinary differential equations (ODEs), each offering distinct approaches based on factors such as accuracy, stability, and efficiency.
 
 - **time_domain:** This function generates an equispaced temporal partition for a specified number of points (N) and time step (dt). It is commonly employed in numerical simulations requiring uniform time sampling.
 
