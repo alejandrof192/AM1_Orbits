@@ -31,7 +31,6 @@ On the other hand, within the "Physics" directory, various modules associated wi
 
 In addition, you will find various milestones achieved throughout the course:
 
-- Milestone_1
 - Milestone_2 (also includes 1)
 - Milestone_3
 - Milestone_4
