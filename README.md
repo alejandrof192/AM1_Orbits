@@ -1,6 +1,6 @@
 # Instituto Universitario Ignacio da Riva
-## Master Universitario en Sistemas Espaciales
-### Alejandro Fernandez Ruiz
+## Máster Universitario en Sistemas Espaciales
+### Alejandro Fernández Ruiz
 #### MUSE
 
 ---
