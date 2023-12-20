@@ -1,7 +1,14 @@
-# Instituto Universitario Ignacio da Riva
-## Máster Universitario en Sistemas Espaciales
-### Alejandro Fernández Ruiz
-#### MUSE
+<!-- Encabezado Principal -->
+# <span style="color: #333; font-weight: bold;">Instituto Universitario Ignacio da Riva</span>
+
+<!-- Subencabezado -->
+## <span style="color: #555;">Máster Universitario en Sistemas Espaciales</span>
+
+<!-- Nombre del Estudiante -->
+### <span style="color: #777;">Alejandro Fernández Ruiz</span>
+
+<!-- Acrónimo o Subtítulo -->
+#### <span style="color: #999;">MUSE</span>
 ![](ETSIAE.png)
 
 
