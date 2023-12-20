@@ -2,7 +2,7 @@
 ## Máster Universitario en Sistemas Espaciales
 #### Alejandro Fernández Ruiz
 #### 1º MUSE
-![](Images/ETSIAE.png)
+![](/Images/ETSIAE.png)
 
 
 ---
