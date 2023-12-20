@@ -7,7 +7,7 @@
 
 ---
 
-In the initial section, you will find the **`ODEs`:** directory, housing the following modules:
+In the initial section, the **`ODEs`** directory can be found, housing the following modules:
 
 - **`Cauchy_Problem`:** Implementation of a numerical solver designed for solving ordinary differential equations (ODEs) utilizing the Cauchy problem approach.
 
@@ -23,7 +23,7 @@ In the initial section, you will find the **`ODEs`:** directory, housing the fol
 
 ---
 
-On the other hand, within the **`Physics`:** directory, various modules associated with the physics of the problem are stored:
+Within the **`Physics`** directory, various modules associated with the physics of the problem are stored:
 
 - **`Stability`:** Functions related to the stability analysis of a system of ordinary differential equations (ODEs). The `System_matrix` function calculates the Jacobian matrix of the system at a given state (U0) and time (t). The `Oscillator` function represents a simple oscillator system. The `test_system_matrix` function is a test case demonstrating the usage of the `System_matrix` function with the `Oscillator` system. This analysis is commonly used in stability studies, particularly when considering linearization around equilibrium points to understand the system's behavior.
 
@@ -37,6 +37,11 @@ On the other hand, within the **`Physics`:** directory, various modules associat
 
 ---
 
+The **`Plotting`** directory serves the purpose of graphically illustrating all the outcomes derived in Milestone_7, encompassing animations of hodographs depicting the studied process, as well as histograms and its corresponding animations.
+
+---
+
+Within the **`Maths_Equations`** directory, one will find the module pertaining to the systems of differential equations studied in Milestone 7, along with the implementation of the Box-Muller algorithm, **`Box_Muller_random_generator`**, for the stochastic variable in the examined system. Furthermore, the implementation of the stochastic model is present, encompassing both the Wiener process, **`Proceso_Wiener`**, and the overarching Ornstein-Uhlenbeck process, **`Proceso_OrnsteinUhlenbeck`**.
 
 
 ---
