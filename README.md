@@ -57,5 +57,5 @@ Furthermore, a compilation of accomplished milestones during the course is found
 - Milestone_7
 
   ---
-![](/Images/EstructuraFuncionalMilestone7.pdf)
+![](/Images/EstructuraFuncionalMilestone7.png)
 
