@@ -31,6 +31,8 @@ On the other hand, within the **`Physics`:** directory, various modules associat
 
 - **`NBody_Problem`:** The primary purpose of this code is to simulate the dynamic behavior of an N-body system interacting gravitationally. This simulation is crucial for understanding and visualizing the orbits and complex interactions between celestial bodies, such as planets in a solar system or stars in a galaxy. The code provides a tool for studying the temporal evolution of a gravitationally interactive system.
 
+- **`ThreeRBP`:** The CR3BP code is designed for studying the dynamics of the Circular Restricted Three-Body Problem, providing derivatives, Lagrange points, and stability information. The Lagrange_points function calculates the positions of Lagrange points by solving equations derived from the CR3BP. The Stability_LP function assesses the stability of Lagrange points using the eigenvalues of the Jacobian matrix.
+
 ---
 
 In addition, you will find various milestones achieved throughout the course:
