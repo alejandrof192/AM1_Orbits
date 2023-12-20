@@ -37,7 +37,7 @@ On the other hand, within the **`Physics`:** directory, various modules associat
 
 ---
 
-In addition, you will find various milestones achieved throughout the course:
+In addition, you will find various milestones achieved throughout the course in **source** folder:
 
 - Milestone_2 (also includes 1)
 - Milestone_3
