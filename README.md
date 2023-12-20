@@ -57,5 +57,11 @@ Furthermore, a compilation of accomplished milestones during the course is found
 - Milestone_7
 
   ---
+### Milestone 7 - Functional Structure
+#### Alejandro Fernández Ruiz
+#### Rubén García Echevarría
+#### Javier Pueyo Serrano
+#### Álvaro Zurdo Navajo
+  
 ![](/Images/EstructuraFuncionalMilestone7.png)
 
